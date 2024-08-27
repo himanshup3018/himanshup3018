@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @himanshu pal
+- 👋 Hi, I’m himanshu pal
 - 👀 I’m interested in front end developer 
 - 🌱 I’m currently learning web development 
 - 💞️ I’m looking to collaborate on front end developer
