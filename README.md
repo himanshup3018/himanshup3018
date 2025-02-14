@@ -5,7 +5,7 @@
 - 📫 How to reach me himanshp3018@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact:
-- front end projet  https://himanshup3018.github.io/front-end-Project/
+- front end projet 
 
 <!---
 himanshup3018/himanshup3018 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
